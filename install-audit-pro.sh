@@ -10,7 +10,6 @@ SIG_URL="https://github.com/deka1918/Linux-Audit-Pro-v2.0/releases/download/v2.0
 KEY_URL="https://github.com/deka1918/Linux-Audit-Pro-v2.0/releases/download/v2.0.0/public-key.asc"
 ICON_URL="https://github.com/deka1918/Linux-Audit-Pro-v2.0/raw/main/audit-icon.png"
 
-# Installation paths
 INSTALL_DIR="/usr/local/bin"
 DESKTOP_DIR="/usr/share/applications"
 APP_NAME="audit-pro"
